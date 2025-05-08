@@ -1,4 +1,4 @@
-# TPU User Guide
+# KubeRay with TPUs User Guide
 
 This page contains instructions for how to set up Ray on GKE with TPUs. 
 
